@@ -1,7 +1,6 @@
 ![ScreenShot](https://github.com/pubnative/pubnative-ios-library/blob/master/PNLogo.png)
 
 PubNative is an API-based publisher platform dedicated to native advertising which does not require the integration of an Library.
-
 Through PubNative, publishers can request over 20 parameters to enrich their ads and thereby create any number of combinations for unique and truly native ad units.
 
 PubNative Android Library simplifies getting ad images, texts and sending confirmation.
