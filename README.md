@@ -1,9 +1,10 @@
 ![ScreenShot](https://github.com/pubnative/pubnative-ios-library/blob/master/PNLogo.png)
 
 PubNative is an API-based publisher platform dedicated to native advertising which does not require the integration of an Library.
+
 Through PubNative, publishers can request over 20 parameters to enrich their ads and thereby create any number of combinations for unique and truly native ad units.
 
-PubNative Android Library simplifies getting ad images, texts and sending confirmation.\n
+PubNative Android Library simplifies getting ad images, texts and sending confirmation.
 PubNative Interstitials provides ready formats & widgets .
 
 Requirements
@@ -24,7 +25,8 @@ Clone the repository and import
 
 PubNative Library
 =============
-PubNative Library provides a simple Java API to get, show and confirm ads.\n
+PubNative Library provides a simple Java API to get, show and confirm ads.
+
 The basic principle is that you create special objects containing references to Views that should be populated (e.g. banner image, app title, etc.) and ask PubNative to fill them.
 After the Views are filled in and displayed, an impression confirmation is to PubNative server.
 Then you need to handle a click on the View, but there's a helper for that.
